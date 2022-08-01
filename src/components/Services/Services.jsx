@@ -24,12 +24,12 @@ const Services = () => {
       {/* left side */}
       <div className="awesome">
         {/* dark mode */}
-        <span style={{ color: darkMode ? "white" : "" }}>My Awesome</span>
-        <span>services</span>
+        <span style={{ color: darkMode ? "white" : "" }}>My </span>
+        <span>Skills</span>
         <spane>
-          Lorem ispum is simpley dummy text of printing of printing Lorem
+          Contributing to various projects in React js, React native,
           <br />
-          ispum is simpley dummy text of printing
+           flutter, node js and UI/UX using figma.
         </spane>
         <a href={Resume} download>
           <button className="button s-button">Download CV</button>
