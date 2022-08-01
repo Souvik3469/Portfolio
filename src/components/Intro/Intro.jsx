@@ -2,7 +2,7 @@ import React, { useContext } from "react";
 import "./Intro.css";
 import Vector1 from "../../img/Vector1.png";
 import Vector2 from "../../img/Vector2.png";
-import boy from "../../img/boy5.png";
+import boy from "../../img/portfolio6.jpg";
 import glassesimoji from "../../img/glassesimoji.png";
 import thumbup from "../../img/thumbup.png";
 import crown from "../../img/crown.png";
@@ -30,8 +30,7 @@ const Intro = () => {
           <span style={{ color: darkMode ? "white" : "" }}>Hi! I Am</span>
           <span>Souvik Sen</span>
           <span>
-            Frontend Developer with high level of experience in web designing
-            and development, producting the Quality work
+           MERN Stack Developer
           </span>
         </div>
         <Link to="contact" smooth={true} spy={true}>
